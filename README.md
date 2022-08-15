@@ -10,6 +10,7 @@ Throughout this course, I intend to learn how to write reusable and clean code w
 
  **Student Directory** 
   - A program that allows us to manage students | Ruby  | 
+
  **Fizzbuzz**                 
   - Test Driven Development program with pair programming | Ruby, RSPEC |
 
@@ -23,7 +24,7 @@ _Full time mother of a lovely toddler_
 **Queens Elizabeth II Centre** (Oct. 2019 to Mar.2020)  
 _Cloackroom assistant_
 
-Event venue in London
+Event venue in London 
 <strong>Skills:</strong> Organisation, Fast Paced, Patience
 
 **Pret A Manger** (Jan. 2019 to Oct. 2019)  
