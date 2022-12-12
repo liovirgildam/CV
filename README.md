@@ -43,7 +43,7 @@ Delivered friendly and approachable customer service.
 
 <strong>Skills:</strong> <em>Team work, Goal oriented, Fast Paced, Adaptability</em>
 
-**Roosters Piri Piri** <strong>(Sep/2017 to Sep/2018)</strong>
+**Roosters Piri Piri** <strong>(Sep/2017 to Sep/2018)</strong><br/>
 <strong>_Waitress_</strong>
 
 As a waitress, I always strived to deliver excellent customer service. 
