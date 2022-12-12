@@ -30,9 +30,11 @@ Being a mother has taught me how to manage my emotions and patiently adjust to m
 <strong>_Team Member_</strong>
 
 In the kitchen:
+
 As a member of the kitchen staff, I helped the team reach the daily food production goal. When necessary, I also helped other team members with their products to avoid delays. 
 
 At the till:
+
 Delivered friendly and approachable customer service.
 
 <strong>Skills:</strong> <em>Team work, Goal oriented, Fast Paced, Adaptability</em>
