@@ -23,14 +23,14 @@ Throughout the course, I learned how to write reusable and clean code with the h
 
 ## Work Experience
 
-**Home** (Since Mar.2020 - )<br/>
+**Home** (Since Mar/2020 - )<br/>
 <strong>_Full time mother of a lovely toddler_</strong>
 
 Being a mother has taught me how to manage my emotions and patiently adjust to my daughter's changes. Her exponential growth forces me to adapt quickly to new phases and has helped me to become more resilient. 
 
 <strong>Skills:</strong> <em>Empathy, Communication, Adaptability, Creative thinking, Patience, Emotional Intelligence, Resilience</em>
 
-**Pret A Manger** (Jan. 2019 to Oct. 2019) <br/>
+**Pret A Manger** (Jan/2019 to Oct/2019) <br/>
 <strong>_Team Member_</strong>
 
 In the kitchen:
@@ -43,7 +43,7 @@ Delivered friendly and approachable customer service.
 
 <strong>Skills:</strong> <em>Team work, Goal oriented, Fast Paced, Adaptability</em>
 
-**Roosters Piri Piri** (Sep.2017 to Sep.2018)  
+**Roosters Piri Piri** (Sep/2017 to Sep/2018)  
 <strong>_Waitress_</strong>
 
 As a waitress, I always strived to deliver excellent customer service. 
@@ -66,7 +66,7 @@ At the end of the course, students learn and use the following features:
 - RSpec, Jest
 - NodeJs, Express
 
-####  <a href="https://www.codecademy.com/pages/pro">Code Academy</a>(Jun/2022)
+####  <a href="https://www.codecademy.com/pages/pro">Code Academy</a> (Jun/2022)
 Online interactive platform that offers free coding classes.
 
 - Learn Ruby
