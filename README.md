@@ -85,9 +85,11 @@ The Python Institute is an independent non-profit project venture set up, run, a
 
 ## Hobbies
 
-Swimming with my toddler
+- Swimming with my toddler
+I enjoy taking my daughter to the local swimming pool, even though she doesn't how to swim, she loves the experience.
 
-Baking Cupcakes and Cakes
-- You can find my favourite <a target="_blank" href="https://www.youtube.com/watch?v=cT9-WMHuMP8">Blueberry muffin recipe</a> here.
+- Baking Cupcakes and Cakes
+I love food, and everything that is sweet, I enjoy baking when 
+I have the time. My favourite favourite <a target="_blank" href="https://www.youtube.com/watch?v=cT9-WMHuMP8">Blueberry muffin recipe</a> is very easy to bake and takes little time. Please, have a go and let me know what you think of it.
 
 
