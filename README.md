@@ -1,4 +1,4 @@
-## Liovirgilda Mendonca
+<h1><div align="center"> Liovirgilda Mendonca </div></h1>
 
 I am a passionate <strong>software developer</strong> who recently graduated from a 16-week, full-time Bootcamp provided by <strong>Makers Academy</strong>.   
 
@@ -59,7 +59,7 @@ Working as a waitress has helped me to improve my communication skills, which we
 Makers Academy is the leading Software engineering Bootcamp provider in Europe.
 Over 16 weeks, students immerse themselves in a full-time course where they learn different computer languages, methods and frameworks.
 
-At the end of the course, students learn to know and use the following features:
+At the end of the course, students learn and use the following features:
 - OOP, TDD, MVP
 - Agile/XP
 - Ruby, JavaScript
@@ -85,7 +85,9 @@ The Python Institute is an independent non-profit project venture set up, run, a
 
 ## Hobbies
 
-Baking Cupcakes and Cakes
-
 Swimming with my toddler
+
+Baking Cupcakes and Cakes
+You can find my favourite <a href="https://www.youtube.com/watch?v=cT9-WMHuMP8" target="_blank">Blueberry muffin recipe</a> here.
+
 
