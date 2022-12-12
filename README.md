@@ -75,6 +75,8 @@ The Python Institute is an independent non-profit project venture set up, run, a
 
 - 2 years BSc Mathematics
 
+***
+
 ## Hobbies
 
 Baking Cupcakes and Cakes
