@@ -74,8 +74,8 @@ Online interactive platform that offers free coding classes.
 #### <a href="https://pythoninstitute.org/">Python Institute</a> 
 The Python Institute is an independent non-profit project venture set up, run, and managed by OpenEDG, the Open Education and Development Group, to promote the Python programming language, train a new generation of Python programmers, and support professional careers in programming in Python and related technologies.
 
-- Certified Associate in Python Programming Exam- April 12, 2021
-- Certified Entry-Level Python Programmer Exam- February 4, 2021
+- <a href="https://verify.openedg.org/?id=UsX6.0WLD.awPr">Certified Associate in Python Programming Exam</a>- April 12, 2021
+- <a href="https://verify.openedg.org/?id=r1QB.PMRt.d30y">Certified Entry-Level Python Programmer Exam</a>- February 4, 2021
 
 #### <a href="https://ciencias.ulisboa.pt/"> Lisbon University, Faculty of Science </a> (Sep/2013- Jul/2016)
 
