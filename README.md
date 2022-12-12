@@ -52,24 +52,28 @@ Working as a waitress has helped me to improve my communication skills, which we
 #### Makers Academy (Jul/2022 to Nov/2022)
 Makers Academy is the leading Software engineering Bootcamp provider in Europe.
 Over 16 weeks, students immerse themselves in a full-time course where they learn different computer languages, methods and frameworks.
-At the end of the course, students are able to know and use the following features:
-- OOP, TDD, MVC, DDD
+
+At the end of the course, students learn to know and use the following features:
+- OOP, TDD, MVP
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, JavaScript
+- RSpec, Jest
+- NodeJs, Express
 
 #### Code Academy 
+Online interactive platform that offers free coding classes.
 
 - Learn Ruby - June 2022
 
 #### Python Institute 
+The Python Institute is an independent non-profit project venture set up, run, and managed by OpenEDG, the Open Education and Development Group, to promote the Python programming language, train a new generation of Python programmers, and support professional careers in programming in Python and related technologies.
 
-- Certified Associate in Python Programming - April 12, 2021
-- Certified Entry-Level Python Programmer - February 4, 2021
+- Certified Associate in Python Programming Exam- April 12, 2021
+- Certified Entry-Level Python Programmer Exam- February 4, 2021
 
 #### Lisbon University, Faculty of Science (Sep. 2013- Jul.2016)
 
-- 2 years Bsc Mathematics
+- 2 years BSc Mathematics
 
 ## Hobbies
 
