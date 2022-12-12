@@ -11,6 +11,8 @@ Throughout the course, I learned how to write reusable and clean code with the h
 ***
 
 ## Projects
+ **Logged**
+ - A blog website created with Python and Flask
 
  **Student Directory** 
   - A program that allows us to manage students | <strong> Ruby </strong>  | 
