@@ -8,6 +8,8 @@ The ability to write different code to solve a single problem has improved my <s
 
 Throughout the course, I learned how to write reusable and clean code with the help of <strong>TDD</strong> practices, organise a group project using <strong>Agile methodology</strong> and <strong>communicate effectively</strong> during <strong>pair-programming </strong>sessions. 
 
+***
+
 ## Projects
 
  **Student Directory** 
@@ -16,6 +18,8 @@ Throughout the course, I learned how to write reusable and clean code with the h
 
  **Fizzbuzz**                 
   - Test Driven Development program with pair programming | <strong> Ruby, RSPEC </strong> |
+
+***
 
 ## Work Experience
 
@@ -46,6 +50,8 @@ As a waitress, I always strived to deliver excellent customer service.
 Working as a waitress has helped me to improve my communication skills, which were very useful when managing problems with customers' orders.
 
 <strong>Skills:</strong><em> Communication, Fast Paced, Problem solving, Emotional Intelligence, Resilience</em>
+
+***
 
 ## Education
 
