@@ -88,6 +88,6 @@ The Python Institute is an independent non-profit project venture set up, run, a
 Swimming with my toddler
 
 Baking Cupcakes and Cakes
-You can find my favourite <a href="https://www.youtube.com/watch?v=cT9-WMHuMP8" target="_blank">Blueberry muffin recipe</a> here.
+- You can find my favourite <a href="https://www.youtube.com/watch?v=cT9-WMHuMP8" target="_blank">Blueberry muffin recipe</a> here.
 
 
