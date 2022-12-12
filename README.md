@@ -66,10 +66,10 @@ At the end of the course, students learn and use the following features:
 - RSpec, Jest
 - NodeJs, Express
 
-####  <a href="https://www.codecademy.com/pages/pro">Code Academy</a>
+####  <a href="https://www.codecademy.com/pages/pro">Code Academy</a>(Jun/2022)
 Online interactive platform that offers free coding classes.
 
-- Learn Ruby - June 2022
+- Learn Ruby
 
 #### <a href="https://pythoninstitute.org/">Python Institute</a> 
 The Python Institute is an independent non-profit project venture set up, run, and managed by OpenEDG, the Open Education and Development Group, to promote the Python programming language, train a new generation of Python programmers, and support professional careers in programming in Python and related technologies.
@@ -77,7 +77,7 @@ The Python Institute is an independent non-profit project venture set up, run, a
 - Certified Associate in Python Programming Exam- April 12, 2021
 - Certified Entry-Level Python Programmer Exam- February 4, 2021
 
-#### <a href="https://ciencias.ulisboa.pt/"> Lisbon University, Faculty of Science </a> (Sep. 2013- Jul.2016)
+#### <a href="https://ciencias.ulisboa.pt/"> Lisbon University, Faculty of Science </a> (Sep/2013- Jul/2016)
 
 - 2 years BSc Mathematics
 
