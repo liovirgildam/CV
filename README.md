@@ -22,26 +22,26 @@ Throughout the course, I learned how to write reusable and clean code with the h
 **Home** (Since Mar.2020 - )<br/>
 <strong>_Full time mother of a lovely toddler_</strong>
 
-<strong>Skills:</strong> <em>Empathy, Communication, Adaptability, Creative thinking, Patience, Emotional Intelligence</em>
+Being a mother has taught me how to manage my emotions and patiently adjust to my daughter's changes. Her exponential growth forces me to adapt quickly to new phases and has helped me to become more resilient. 
 
-**Queens Elizabeth II Centre** (Oct. 2019 to Mar.2020)  
-<strong>_Cloackroom assistant_</strong>
-
-Event venue in London.
-
-<strong>Skills:</strong> <em>Organisation, Fast Paced, Patience</em>
+<strong>Skills:</strong> <em>Empathy, Communication, Adaptability, Creative thinking, Patience, Emotional Intelligence, Resilience</em>
 
 **Pret A Manger** (Jan. 2019 to Oct. 2019) <br/>
 <strong>_Team Member_</strong>
 
-Pret A Manger is a fast casual restaurant that pushes its members to give their best.
+In the kitchen:
+As a member of the kitchen staff, I helped the team reach the daily food production goal. When necessary, I also helped other team members with their products to avoid delays. 
+
+At the till:
+Delivered friendly and approachable customer service.
 
 <strong>Skills:</strong> <em>Team work, Goal oriented, Fast Paced, Adaptability</em>
 
 **Roosters Piri Piri** (Sep.2017 to Sep.2018)  
 <strong>_Waitress_</strong>
 
-Fast food restaurant who strives to deliver grilled healthy food.
+As a waitress, I always strived to deliver excellent customer service. 
+Working as a waitress has helped me to improve my communication skills, which were very useful when managing problems with customers' orders.
 
 <strong>Skills:</strong><em> Communication, Fast Paced, Problem solving, Emotional Intelligence, Resilience</em>
 
