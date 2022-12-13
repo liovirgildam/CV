@@ -16,8 +16,8 @@ Throughout the course, I learned how to write reusable and clean code with the h
 
 Name | Description | External Link | Technologies | Languages
 --- | --- | --- | --- | ---
-<a href="https://github.com/liovirgildam/Blog_App">Logged</a> | Blog app |  <a href="https://logged.onrender.com/">Render</a> | Flask, Flask-SQLAlchemy, Flask-Mail | Python
-<a href="https://github.com/liovirgildam/wakify"> Wakify</a> | A mobile app that matches a mood to a playlist | Coming soon... | React native, React, Expo, Expo Go | Javascript
+<a href="https://github.com/liovirgildam/Blog_App">Logged</a> | Blog app |  <a href="https://logged.onrender.com/">Render</a> | Flask, Flask-SQLAlchemy, Flask-Mail, NewsDataAPI | Python
+<a href="https://github.com/liovirgildam/wakify"> Wakify</a> | A mobile app that matches a mood to a playlist | Coming soon... | React native, React, Expo, Expo Go, SpotifyApi | Javascript
 <a href="https://github.com/liovirgildam/acebook-monsters-inc">acebook-monsters-inc</a> | A clone of Facebook | <a href="https://acebook-monsters-inc.herokuapp.com/"> Heroku </a> | Express, Handlebars, Mongoose, Jest, Cypress | Javascript
     
   </div>
