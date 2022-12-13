@@ -66,7 +66,7 @@ At the end of the course, students learn and use the following features:
 - OOP, TDD, MVP
 - Agile/XP
 - Ruby, JavaScript
-- RSpec, Jest
+- RSpec, Jest, Cypress
 - NodeJs, Express
 
 ####  <a href="https://www.codecademy.com/pages/pro">Code Academy</a> (Jun/2022)
